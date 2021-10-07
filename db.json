@@ -2,23 +2,28 @@
   "anime": [
     {
       "title": "Pokemon",
-      "mainCharacter": "Ash Ketchum"
+      "mainCharacter": "Ash Ketchum",
+      "details": "Gonna Catch em All POKEMON!!!"
     },
     {
       "title": "One Piece",
-      "mainCharacter": "Monkey D Luffy"
+      "mainCharacter": "Monkey D Luffy",
+      "details": "To be the King of the Pirates!!!"
     },
     {
       "title": "Naruto",
-      "mainCharacter": "Naruto"
+      "mainCharacter": "Naruto",
+      "details": "To Become the HOKAGE!!!"
     },
     {
       "title": "Dragon Ball",
-      "mainCharacter": "Son Goku"
+      "mainCharacter": "Son Goku",
+      "details": "To be the Strongest"
     },
     {
-      "title": "Bleach",
-      "mainCharacter": "Kurosaki Ichigo"
+      "title": "My Hero Academia",
+      "mainCharacter": "Izuku Midoriya",
+      "details": "To Become the number 1 Hero"
     }
   ]
 }
