@@ -1,0 +1,24 @@
+{
+  "anime": [
+    {
+      "title": "Pokemon",
+      "mainCharacter": "Ash Ketchum"
+    },
+    {
+      "title": "One Piece",
+      "mainCharacter": "Monkey D Luffy"
+    },
+    {
+      "title": "Naruto",
+      "mainCharacter": "Naruto"
+    },
+    {
+      "title": "Dragon Ball",
+      "mainCharacter": "Son Goku"
+    },
+    {
+      "title": "Bleach",
+      "mainCharacter": "Kurosaki Ichigo"
+    },
+  ]
+}
