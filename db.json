@@ -1,26 +1,31 @@
 {
   "anime": [
     {
+      "id": 1,
       "title": "Pokemon",
       "mainCharacter": "Ash Ketchum",
       "details": "Gonna Catch em All POKEMON!!!"
     },
     {
+      "id": 2,
       "title": "One Piece",
       "mainCharacter": "Monkey D Luffy",
       "details": "To be the King of the Pirates!!!"
     },
     {
+      "id": 3,
       "title": "Naruto",
       "mainCharacter": "Naruto",
       "details": "To Become the HOKAGE!!!"
     },
     {
+      "id": 4,
       "title": "Dragon Ball",
       "mainCharacter": "Son Goku",
       "details": "To be the Strongest"
     },
     {
+      "id": 5,
       "title": "My Hero Academia",
       "mainCharacter": "Izuku Midoriya",
       "details": "To Become the number 1 Hero"
